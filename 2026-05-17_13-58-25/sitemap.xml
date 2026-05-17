@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://isotc204.org/ontology-its-agent-v1/2026-05-17_13-58-25/</loc>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-agent-v1/2026-05-17_13-58-25/classes/Agent/</loc>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-agent-v1/2026-05-17_13-58-25/classes/ITSAgentThing/</loc>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-agent-v1/2026-05-17_13-58-25/classes/Role/</loc>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-agent-v1/2026-05-17_13-58-25/properties/ITSAgentObjectProperty/</loc>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-its-agent-v1/2026-05-17_13-58-25/properties/playsRole/</loc>
+         <lastmod>2026-05-17</lastmod>
+    </url>
+</urlset>
