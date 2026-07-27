@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""VERSION / RELEASES helpers for ontology-its-core.
+"""VERSION / RELEASES helpers for ontology-its-agent.
 
 VERSION file format (repo root):
   version: 1.2.3
@@ -25,10 +25,10 @@ ROOT = Path(__file__).resolve().parents[1]
 VERSION_PATH = ROOT / "VERSION"
 RELEASES_PATH = ROOT / "RELEASES"
 TTL_FILES = [
-    ROOT / "docs" / "its-core.ttl",
-    ROOT / "docs" / "CoreSHACL.ttl",
+    ROOT / "docs" / "its-agent.ttl",
+    ROOT / "docs" / "AgentSHACL.ttl",
 ]
-ONTOLOGY_NS = "https://w3id.org/itsdata/core/v1/"
+ONTOLOGY_NS = "https://w3id.org/itsdata/agent/v1/"
 
 SEMVER_RE = re.compile(
     r"^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)"
