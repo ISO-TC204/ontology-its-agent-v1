@@ -1,9 +1,17 @@
 BASE <https://w3id.org/itsdata/agent/v1/>
 PREFIX : <https://w3id.org/itsdata/agent/v1/>
 PREFIX cdm1: <https://w3id.org/citydata/part1/v1/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX its-sh: <https://w3id.org/itsdata/shapes/v1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX sh: <http://www.w3.org/ns/shacl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
+:AgentSHACL a owl:Ontology ;
+    dcterms:title "SHACL constraints for the Agent pattern"@en ;
+    skos:definition "Validation shapes for traffic regulation agent concepts."@en ;
+    owl:imports <https://w3id.org/itsdata/core/v1/CoreSHACL> .
+    
 :RoleShape a sh:NodeShape ;
     sh:targetClass :Role ;
     sh:property [

@@ -78,7 +78,8 @@ A person, organization, group, or software agent that performs a role. The role 
     <title>Agent&#45;&gt;Role</title>
     <path fill="none" stroke="black" d="M85.23,-162C89.17,-143.59 93.31,-113.56 85.88,-89 82.87,-79.08 77.38,-69.31 71.57,-60.88"/>
     <polygon fill="black" stroke="black" points="74.4,-58.82 65.64,-52.86 68.78,-62.98 74.4,-58.82"/>
-    <text xml:space="preserve" text-anchor="middle" x="113.62" y="-103.3" font-family="Arial" font-size="11.00">playsRole</text>
+    <polygon fill="white" stroke="none" points="89.99,-96.25 89.99,-117.75 145.24,-117.75 145.24,-96.25 89.99,-96.25"/>
+    <text xml:space="preserve" text-anchor="start" x="93.99" y="-103.25" font-family="Arial" font-size="11.00">playsRole</text>
     </g>
     <!-- Invis&#45;&gt;Role -->
     </g>
