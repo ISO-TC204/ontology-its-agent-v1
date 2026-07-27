@@ -14,7 +14,6 @@ PREFIX its-core: <https://w3id.org/itsdata/core/v1/>
     skos:definition "This ontology defines concepts related to ITS agents." ;
     vann:preferredNamespaceUri "https://w3id.org/itsdata/agent/v1/" ;
     vann:preferredNamespacePrefix "its-agent" ;
-    cdm1:mainModule "true" ;
     its-core:draft "true" ;
     dcterms:creator "Kenneth Vaughn" ;
     dcterms:created "Draft" ;

@@ -2,14 +2,18 @@ site_name: ITS Ontology - Agent
 site_description: A registry for documenting the ontology of ITS agent concepts
 repo_url: https://github.com/ISO-TC204/ontology-its-agent-v1
 nav:
-- Home: index.md
-- Classes:
-  - Agent: classes/Agent.md
-  - Its Agent Thing: classes/ITSAgentThing.md
-  - Role: classes/Role.md
-- Properties:
-  - ITSAgentObjectProperty: properties/ITSAgentObjectProperty.md
-  - playsRole: properties/playsRole.md
+- TC204 on ISO.org: https://www.iso.org/committee/54706.html
+- TC 204 Home: https://isotc204.org/
+- RITSO Home: https://isotc204.org/ritso/
+- ITS Ontology - Agent:
+  - Home: index.md
+  - Classes:
+    - Agent: classes/Agent.md
+    - Its Agent Thing: classes/ITSAgentThing.md
+    - Role: classes/Role.md
+  - Properties:
+    - ITSAgentObjectProperty: properties/ITSAgentObjectProperty.md
+    - playsRole: properties/playsRole.md
 site_url: https://isotc204.org/ontology-its-agent-v1
 copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
   <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank"
@@ -25,6 +29,8 @@ theme:
   - content.tooltips
   - icons
   - navigation.path
+  - navigation.tabs
+  - navigation.tabs.sticky
   - navigation.top
   icon:
     repo: fontawesome/brands/github

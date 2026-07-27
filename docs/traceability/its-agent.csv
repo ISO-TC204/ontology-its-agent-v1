@@ -1,0 +1,6 @@
+id,qname,heading,text,type,diagram,website,updated
+,Agent,Agent,"A person, organization, group, or software agent that performs a role. The role may add additional properties to the agent.",Class,https://w3id.org/itsdata/agent/v1/diagrams/Agent.dot.svg,https://w3id.org/itsdata/agent/v1/Agent,2026-07-27T17:51:32.015897
+,Role,Role,A role that an agent can perform. The role may add additional properties to the agent.,Class,https://w3id.org/itsdata/agent/v1/diagrams/Role.dot.svg,https://w3id.org/itsdata/agent/v1/Role,2026-07-27T17:51:32.015897
+,ITSAgentThing,ITSAgentThing,Added for organizational purposes to identify classes defined in the Agent part of the ITS Ontology.,Class,https://w3id.org/itsdata/agent/v1/diagrams/ITSAgentThing.dot.svg,https://w3id.org/itsdata/agent/v1/ITSAgentThing,2026-07-27T17:51:32.015897
+,ITSAgentObjectProperty,ITSAgentObjectProperty,An object property to organize all object properties defined in the ITS Agent Ontology.,ObjectProperty,,https://w3id.org/itsdata/agent/v1/ITSAgentObjectProperty,2026-07-27T17:51:32.015897
+,playsRole,playsRole,Indicates the role that an agent performs.,ObjectProperty,,https://w3id.org/itsdata/agent/v1/playsRole,2026-07-27T17:51:32.015897

@@ -4,6 +4,8 @@
 
 This ontology defines concepts related to ITS agents.
 
+**License**: [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
+
 This ontology imports the following files:
 
 - [https://w3id.org/citydata/part1/v1/Agent.owl](https://w3id.org/citydata/part1/v1/Agent.owl)
